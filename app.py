@@ -4,7 +4,7 @@ from time import sleep
 
 # 1- clicar e digitar o meu usuario
 pyautogui.click(963,542,duration=2)
-pyautogui.write('jhonatan')
+pyautogui.write('eduardo')
 
 # 2- clicar e digitar minha senha
 pyautogui.click(968,575,duration=2)
